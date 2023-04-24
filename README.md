@@ -5,4 +5,9 @@ This repository contains an Exploratory Data Analysis (EDA) of the Student Perfo
 # Dataset
 The Student Performance Indicator dataset contains information about students in secondary education, including demographic information, family background, and academic performance. The dataset was obtained from Kaggle, and To download the dataset, click [here](https://www.kaggle.com/spscientist/students-performance-in-exams).
 
+## Credits
+
+The code for the data cleaning and preparation was adapted from [krish naik GitHub repository](https://github.com/krishnaik06). 
+We would like to thank krishnaik for his effort to teach people.
+
 

@@ -8,6 +8,6 @@ The Student Performance Indicator dataset contains information about students in
 ## Credits
 
 The code for the data cleaning and preparation was adapted from [krish naik GitHub repository](https://github.com/krishnaik06). 
-We would like to thank krishnaik for his effort to teach people.
+We would like to thank krish naik for his effort to teach people.
 
 

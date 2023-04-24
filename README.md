@@ -3,4 +3,6 @@ Student performance Indicator dataset from Kaggle
 This repository contains an Exploratory Data Analysis (EDA) of the Student Performance Indicator dataset from Kaggle. The purpose of this analysis is to explore the relationships between different features of the dataset, and to gain insights into factors that may affect student performance.
 
 # Dataset
-The Student Performance Indicator dataset contains information about students in secondary education, including demographic information, family background, and academic performance. The dataset was obtained from Kaggle, and can be downloaded here.
+The Student Performance Indicator dataset contains information about students in secondary education, including demographic information, family background, and academic performance. The dataset was obtained from Kaggle, and To download the dataset, click [here](https://www.kaggle.com/spscientist/students-performance-in-exams).
+
+
